@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApplication", "ToDoApplication\ToDoApplication.csproj", "{A2B2FC6E-7A49-4276-B609-06F929DBBCEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApplication.Android", "Android\ToDoApplication.Android.csproj", "{8426B767-47A2-4C2E-8818-9F44E75A5322}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8426B767-47A2-4C2E-8818-9F44E75A5322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8426B767-47A2-4C2E-8818-9F44E75A5322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8426B767-47A2-4C2E-8818-9F44E75A5322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8426B767-47A2-4C2E-8818-9F44E75A5322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B2FC6E-7A49-4276-B609-06F929DBBCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B2FC6E-7A49-4276-B609-06F929DBBCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B2FC6E-7A49-4276-B609-06F929DBBCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B2FC6E-7A49-4276-B609-06F929DBBCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ToDoApplication\ToDoApplication.csproj
+	EndGlobalSection
+EndGlobal
